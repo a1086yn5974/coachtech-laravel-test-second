@@ -1,0 +1,9 @@
+①DBクラス
+②Eloquent
+③Model
+④Create
+⑤Read
+⑥Update
+⑦.env
+⑧マイグレーション
+⑨ファクトリ
